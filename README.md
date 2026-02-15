@@ -1,10 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on: Production cloud infrastructure on GCP & AWS, Kubernetes microservices, CI/CD automation, Infrastructure as Code (Terraform & Ansible), and observability & reliability improvements for cloud-native systems.
-👯 I’m looking to collaborate on: Cloud-native projects (Kubernetes, Docker, microservices), DevOps automation, platform engineering, open-source infra tools, and real-world GCP/AWS architecture & migration projects.
-🤝 I’m looking for help with: Advanced Kubernetes architecture & scaling, cloud security and cost optimization at scale, and building production-grade DevOps frameworks.
-🌱 I’m currently learning: Advanced Terraform, cloud architecture patterns, production-grade Kubernetes operations, reliability engineering, and event-driven identity automation.
-💬 Ask me about: GCP, AWS, Kubernetes, Terraform, CI/CD, production support, incident response, observability, API platforms, cloud networking, and microservices.
+🔭 I’m currently working on: Production cloud infrastructure on GCP & AWS, Kubernetes microservices, CI/CD automation, Infrastructure as Code (Terraform & Ansible), and observability & reliability improvements for cloud-native systems.<br>
+👯 I’m looking to collaborate on: Cloud-native projects (Kubernetes, Docker, microservices), DevOps automation, platform engineering, open-source infra tools, and real-world GCP/AWS architecture & migration projects.<br>
+🤝 I’m looking for help with: Advanced Kubernetes architecture & scaling, cloud security and cost optimization at scale, and building production-grade DevOps frameworks.<br>
+🌱 I’m currently learning: Advanced Terraform, cloud architecture patterns, production-grade Kubernetes operations, reliability engineering, and event-driven identity automation.<br>
+💬 Ask me about: GCP, AWS, Kubernetes, Terraform, CI/CD, production support, incident response, observability, API platforms, cloud networking, and microservices.<br>
 ⚡ Fun fact: I enjoy turning complex cloud architectures into lightweight, scalable, automated solutions that reduce manual effort and improve reliability.
+
 
 
 # 💻 Tech Stack:
