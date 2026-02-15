@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Production cloud infrastructure on GCP & AWS, Kubernetes microservices, and CI/CD automation<br><br>Infrastructure as Code using Terraform & Ansible<br><br>Observability and reliability improvements for cloud-native systems <br><br><br>👯 I’m looking to collaborate on<br><br>Cloud-native projects (Kubernetes, Docker, microservices)<br><br>DevOps automation, platform engineering, and open-source infra tools<br><br>Real-world GCP/AWS architecture and migration projects<br><br>🤝 I’m looking for help with<br><br>Advanced Kubernetes architecture & platform scaling<br><br>Cloud security and cost optimization at scale<br><br>Building production-grade DevOps frameworks<br><br>🌱 I’m currently learning<br><br>Advanced Terraform & cloud architecture patterns<br><br>Production-grade Kubernetes operations and reliability engineering<br><br>Identity automation and event-driven cloud systems <br><br><br>💬 Ask me about<br><br>GCP, AWS, Kubernetes, Terraform, CI/CD<br><br>Production support, incident response, observability<br><br>API platforms, cloud networking, and microservices <br><br><br>⚡ Fun fact<br><br>I enjoy turning complex cloud architectures into lightweight, scalable, and automated solutions that actually reduce manual effort and improve reliability.
+🔭 I’m currently working on: Production cloud infrastructure on GCP & AWS, Kubernetes microservices, CI/CD automation, Infrastructure as Code (Terraform & Ansible), and observability & reliability improvements for cloud-native systems.
+👯 I’m looking to collaborate on: Cloud-native projects (Kubernetes, Docker, microservices), DevOps automation, platform engineering, open-source infra tools, and real-world GCP/AWS architecture & migration projects.
+🤝 I’m looking for help with: Advanced Kubernetes architecture & scaling, cloud security and cost optimization at scale, and building production-grade DevOps frameworks.
+🌱 I’m currently learning: Advanced Terraform, cloud architecture patterns, production-grade Kubernetes operations, reliability engineering, and event-driven identity automation.
+💬 Ask me about: GCP, AWS, Kubernetes, Terraform, CI/CD, production support, incident response, observability, API platforms, cloud networking, and microservices.
+⚡ Fun fact: I enjoy turning complex cloud architectures into lightweight, scalable, automated solutions that reduce manual effort and improve reliability.
 
 
 # 💻 Tech Stack:
@@ -9,8 +14,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jagtap-khushi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jagtap-khushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jagtap-khushi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
